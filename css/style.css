@@ -1,0 +1,28 @@
+h1{
+    font-style: italic;
+    color:rgb(255, 255, 255);
+    text-shadow:0 5px 10px black;
+    text-decoration: underline;
+    text-align: center;
+}
+body{
+    background-color: rgb(183, 247, 255);
+}
+.titulo{
+    font-style: italic;
+    background-color: rgb(1, 130, 153);
+    color:rgb(255, 255, 255);
+}
+.resumir{
+    text-decoration: underline;
+    font-style: italic;
+}
+#face{
+    text-align: center;
+}
+a{
+    color:rgb(0, 17, 255);
+}
+a:hover{
+    color:green;
+}
